@@ -1,5 +1,8 @@
 # 🔍 Crypto Wallet Hunter Finder seed frase on C# 
 
+![image](https://github.com/user-attachments/assets/a9c28a23-9706-45dc-b392-9fd8346d15f6)
+
+
 A program for finding cryptocurrency wallets with balances. Supports BTC, TRX, ETH and BNB.
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/+uOa0ElL74KhiMjQ6)
